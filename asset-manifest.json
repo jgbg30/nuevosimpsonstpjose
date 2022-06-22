@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nuevosimpsonstpjose./static/css/main.11af180f.chunk.css",
+    "main.js": "/nuevosimpsonstpjose./static/js/main.35f87f8c.chunk.js",
+    "main.js.map": "/nuevosimpsonstpjose./static/js/main.35f87f8c.chunk.js.map",
+    "runtime-main.js": "/nuevosimpsonstpjose./static/js/runtime-main.e0652d72.js",
+    "runtime-main.js.map": "/nuevosimpsonstpjose./static/js/runtime-main.e0652d72.js.map",
+    "static/css/2.af34670d.chunk.css": "/nuevosimpsonstpjose./static/css/2.af34670d.chunk.css",
+    "static/js/2.25fb7d1b.chunk.js": "/nuevosimpsonstpjose./static/js/2.25fb7d1b.chunk.js",
+    "static/js/2.25fb7d1b.chunk.js.map": "/nuevosimpsonstpjose./static/js/2.25fb7d1b.chunk.js.map",
+    "index.html": "/nuevosimpsonstpjose./index.html",
+    "static/css/2.af34670d.chunk.css.map": "/nuevosimpsonstpjose./static/css/2.af34670d.chunk.css.map",
+    "static/css/main.11af180f.chunk.css.map": "/nuevosimpsonstpjose./static/css/main.11af180f.chunk.css.map",
+    "static/js/2.25fb7d1b.chunk.js.LICENSE.txt": "/nuevosimpsonstpjose./static/js/2.25fb7d1b.chunk.js.LICENSE.txt",
+    "static/media/carrousel-1.9b34cf9c.jpg": "/nuevosimpsonstpjose./static/media/carrousel-1.9b34cf9c.jpg",
+    "static/media/carrousel-2.fd912352.jpg": "/nuevosimpsonstpjose./static/media/carrousel-2.fd912352.jpg",
+    "static/media/carrousel-3.424560c4.jpg": "/nuevosimpsonstpjose./static/media/carrousel-3.424560c4.jpg",
+    "static/media/meme-2.38cfda4b.jpg": "/nuevosimpsonstpjose./static/media/meme-2.38cfda4b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0652d72.js",
+    "static/css/2.af34670d.chunk.css",
+    "static/js/2.25fb7d1b.chunk.js",
+    "static/css/main.11af180f.chunk.css",
+    "static/js/main.35f87f8c.chunk.js"
+  ]
+}
